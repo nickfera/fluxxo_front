@@ -1,3 +1,2 @@
-export { default as MainLayout } from './MainLayout';
-export { default as NavBar } from './NavBar';
-export { default as Page } from './Page';
+export { default as DashboardLayout } from './DashboardLayout';
+export { default as InputPassword } from './InputPassword';
