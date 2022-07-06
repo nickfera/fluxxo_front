@@ -22,6 +22,7 @@ Technologies used for the backend: Node.js, TypeScript, NestJS, TypeORM, Sockets
 Frontend: TypeScript, React, MUI
 
 [Link to the backend](https://github.com/nickfera/fluxxo_api)
+[Link to the older project 'MoviMercado'](https://github.com/nickfera/movimercado)
 
 
 ###### Português
@@ -45,3 +46,4 @@ Tecnologias usado no backend: TypeScript, Node.js, NestJS, TypeORM, Sockets.io, 
 Frontend: TypeScript, React, MUI
 
 [Link para o backend](https://github.com/nickfera/fluxxo_api)
+[Link para o projeto mais antigo 'MoviMercado'](https://github.com/nickfera/movimercado)
